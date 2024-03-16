@@ -1,5 +1,8 @@
-Hello, I'm Fractal!
-=======================
+# Hello, I'm Fractal!
+
+Email: `myf3sx@mail.ru`
+
+Telegram: [@cofob](https://t.me/cofob)
 
 ### Skills
 
