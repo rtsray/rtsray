@@ -2,7 +2,7 @@
 
 Email: `myf3sx@mail.ru`
 
-Telegram: [@cofob](https://t.me/cofob)
+Telegram: [@rtsray](https://t.me/rtsray)
 
 ### Skills
 
