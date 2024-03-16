@@ -1,5 +1,5 @@
 Hello, I'm Fractal!
--------------------------
+=======================
 Telegram: t.me/rtsray
 
 🤝  I'm open to collaborating on interesting projects
