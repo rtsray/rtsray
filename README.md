@@ -1,7 +1,6 @@
 Hello, I'm Fractal!
 =========================
-=========================
-
+-------------------------
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [myf3sx@mail.ru](mailto:myf3sx@mail.ru)
 * 🤝  I'm open to collaborating on interesting projects
