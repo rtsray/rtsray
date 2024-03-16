@@ -1,7 +1,7 @@
-Hi 👋 My name is Fractal!
+Hello, I'm Fractal!
 =========================
 
-Software Developer
+
 ------------------
 
 * 🌍  I'm based in Russia
